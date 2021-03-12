@@ -7,7 +7,7 @@
 		background-color:pink;
 	    }
             h1{
-            color:rgb(220,10,105);
+            color:rgb(20,100,105);
 	    }
         </style> 
         </head>
