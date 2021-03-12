@@ -3,11 +3,12 @@
         <meta charset="utf-8">
         <title> WebPage ICT </title>
         <style>
-		    body{
-			background-color:pink;
-			}
+	    body{
+		background-color:pink;
+	    }
             h1{
-            color:rgb(220,10,105);}
+            color:rgb(220,10,105);
+	    }
         </style> 
         </head>
         <h1 id="#WebPage ICT"><strong>WebPage ICT</strong></h1>
