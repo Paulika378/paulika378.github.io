@@ -12,7 +12,6 @@
         </style> 
         </head>
         <h1 id="#WebPage ICT"><strong>WebPage ICT</strong></h1>
-    <img scr="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Las-TIC.webp/574px-Las-TIC.webp.png" width=500>
     <body>
 
 <p>
@@ -22,6 +21,7 @@
     <li><a href="#Accessibility Standars">Accessibility Standars</a></li>
     <li><a href="#Object Oriented Programming vs Structured Programming">Object Oriented Programming vs Structured Programming</a></li>
   </ul>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Las-TIC.webp/574px-Las-TIC.webp.png" width="203">
 </p>
  </body>
   </html>
