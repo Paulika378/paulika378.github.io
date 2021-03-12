@@ -22,6 +22,4 @@
     <li><a href="#Accessibility Standars">Accessibility Standars</a></li>
     <li><a href="#Object Oriented Programming vs Structured Programming">Object Oriented Programming vs Structured Programming</a></li>
      
-</p>
- </body>
-  </html>
+
