@@ -21,7 +21,7 @@
     <li><a href="#Accessibility Standars">Accessibility Standars</a></li>
     <li><a href="#Object Oriented Programming vs Structured Programming">Object Oriented Programming vs Structured Programming</a></li>
   </ul>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Las-TIC.webp/574px-Las-TIC.webp.png" width="203">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Las-TIC.webp/574px-Las-TIC.webp.png" width="300" length="400">
 </p>
  </body>
   </html>
