@@ -17,9 +17,9 @@
 <p>
   <ul>
     <li><a href="https://paulika378.github.io/Internet-Security">Internet Security</a></li>
-    <li><a href="#Digital Signatur">Digital Signature</a></li>
-    <li><a href="#Accessibility Standars">Accessibility Standars</a></li>
-    <li><a href="#Object Oriented Programming vs Structured Programming">Object Oriented Programming vs Structured Programming</a></li>
+    <li><a href="https://paulika378.github.io/Digital-Signature">Digital Signature</a></li>
+    <li><a href="https://paulika378.github.io/Accessibility-Standars">Accessibility Standars</a></li>
+    <li><a href="https://paulika378.github.io/Object-Oriented-Programming-VS-Structured-Programming">Object Oriented Programming vs Structured Programming</a></li>
   </ul>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Las-TIC.webp/574px-Las-TIC.webp.png" width="300" length="400">
 </p>
