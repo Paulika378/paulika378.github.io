@@ -21,7 +21,7 @@
     <li><a href="https://paulika378.github.io/Accessibility-Standars">Accessibility Standars</a></li>
     <li><a href="https://paulika378.github.io/Object-Oriented-Programming-VS-Structured-Programming">Object Oriented Programming vs Structured Programming</a></li>
   </ul>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Las-TIC.webp/574px-Las-TIC.webp.png" width="300" length="400">
+  <img src="https://www.gifsanimados.org/data/media/56/computadora-y-ordenador-imagen-animada-0178.gif" width="300" length="400">
 </p>
  </body>
   </html>
