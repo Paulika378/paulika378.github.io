@@ -47,7 +47,7 @@
                    border: 3px double rgb(255,0,0); 
 		   padding: 6px;
 		}
-		h3{
+		#types-malware{
 		background-color:rgb(198,229,177);
 		font-family: "fantasy", sans-serif;
 		font-weight: bold;
@@ -68,14 +68,14 @@
                    border: 5px double rgb(198,229,177); 
 		   padding: 3px;
 		}
-		h4{
+		#software-hardware{
 		   background-color:rgb(198,229,177);
 		   font-family: "fantasy", sans-serif;
 		   font-weight: bold;
 		   text-decoration: underline;
 		   font-size: 30px;
 		}
-		h5{
+		#net-protocols{
 		   background-color:rgb(198,229,177);
 		   font-family: "fantasy", sans-serif;
 		   font-weight: bold;
@@ -88,19 +88,19 @@
                    overflow: auto;  
 		   padding: 3px;
 		}
-		h6{
+		#H-IPv6{
 		color:green;
 		font-family: "fantasy", sans-serif;
 		font-weight: bold;
 		font-size: 20px;
 		}
-		h7{
+		#H-HTTPS{
 		color:green;
 		font-family: "fantasy", sans-serif;
 		font-weight: bold;
 		font-size: 20px;
 		}
-		h8{
+		#H-SSL{
 		color:green;
 		font-family: "fantasy", sans-serif;
 		font-weight: bold;
@@ -130,7 +130,7 @@
                    overflow: auto;  
 		   padding: 6px;
 		}
-		h9{
+		#DC-CA{
 		   background-color:rgb(198,229,177);
 		   font-family: "fantasy", sans-serif;
 		   font-weight: bold;
@@ -189,7 +189,8 @@ build it.
 malware, so all viruses are malware.<p/>
 </div>
  <img src="https://previews.123rf.com/images/scyther5/scyther51601/scyther5160100095/51156177-hacker-using-laptop-hacking-the-internet-.jpg" width="300" length="400">
-<h3>TYPES OF MALWARE</h3>
+<div id="types-malware"><p>TYPES OF MALWARE</p>
+</div>
 <p>There are a number of different ways of categorizing malware; the
 first is by how the malicious software spreads:</p>
 <ul>
@@ -210,10 +211,13 @@ spread.</li>
 <div id="spyware"><p>-Another way to categorize malware is by what it does once it has successfully infected its victim's computers:<br> <strong>Spyware</strong> is a malware used for the purpose of secretly gathering data on an unsuspecting user. In essence, it spies on your behavior as you use your computer, and on the data you send and receive, usually with the purpose of sending that information to a third party. A keylogger is a specific kind of spyware that records all the keystrokes a user makes (great for stealing passwords).</p>
 </div>
 <img src="https://images.idgesg.net/images/article/2019/05/cso_danger_security_threat_malware_danger_security_threat_binary_skull_by_jakarin2521_gettyimages-862844730_binary_data_by_simon2579_gettyimages-1140711395_3x2_2400x1600-100796674-large.jpg" width="300" length="400">
-<h4><strong>SOFTWARE AND HARDWARE TO PROTECT NETWORKS</strong></h4>
-<h5><strong>NETWORK PROTOCOLS</strong></h5>
+<div id="software-hardware"><p><strong>SOFTWARE AND HARDWARE TO PROTECT NETWORKS</strong></p>
+</div>
+<div id="net-protocols"><p><strong>NETWORK PROTOCOLS</strong></p>
+</div>
 <div id="protocols"><p>Network protocols are a set of rules, conventions, and data structures that dictate how devices exchange data across networks.</p>
-<h6><strong>IPv6: Internet Protocol version 6</strong></h6>
+<div id="H-IPv6"><p><strong>IPv6: Internet Protocol version 6</strong></p>
+</div>
 <div id="IPv6"><p>IPv6 is the latest version of the Internet Protocol, a network layer protocol that possesses addressing and control information for enabling packets to be routed in the network. It increases the IP address size from 32 bits to 128 bits to support more levels of addressing.</p>
 </div>
 <div id="table-act-pass"><table>
@@ -235,17 +239,20 @@ spread.</li>
      </tbody>
 </table>
 <img src="https://media.istockphoto.com/vectors/ipv6-internet-protocol-version-6-connection-server-computer-standard-vector-id589124708?k=6&m=589124708&s=170667a&w=0&h=vupJrpMQ0xfdiHdjTsKwoSI281FKISUJbtRBhugAXpg=" width="300" length="400">
-<h7><strong>HTTPS: Hypertext Transfer Protocol Secure</strong></h7>
+<div id="H-HTTPS"><p><strong>HTTPS: Hypertext Transfer Protocol Secure</strong></p>
+</div>
 <div id="HTTPS"><p>HTTPS is the secure version of HTTP. This communication protocol combines HTTP and SSL / TS protocols so that data transmission between client and web server is secure. For this, it uses an encrypted connection that makes the information practically indecipherable to a third party. At first it was a protocol oriented only towards ecommerce or online banking, but it is becoming a standard on the Internet. Users seek security when browsing the Internet and an HTTP protocol is insufficient.</p></div>
 </div>
 <img src="https://itae.com.ar/wp-content/uploads/2019/12/ssl.png" width="300" length="400">
-<h8><strong>SSL: Secure Sockets Layer</strong></h8>
+<div id="H-SSL"><p><strong>SSL: Secure Sockets Layer</strong></p>
+</div>
 <div id="SSL"><p>Is an encryption-based Internet security protocol. It was first developed by Netscape in 1995 for the purpose of ensuring privacy, authentication, and data integrity in Internet communications. SSL is the predecessor to the modern TLS encryption used today. A website that implements SSL/TLS has "HTTPS" in its URL instead of "HTTP."</p>
 </div>
 <img src="https://www.cloudflare.com/img/learning/security/glossary/what-is-ssl/http-vs-https.svg" width="300" length="400">
 <a href="https://www.cloudflare.com/es-es/learning/ssl/what-is-ssl/">FIND MORE INFORMATION</a>
-<h9><strong>Digital certificates and certificate authorities</strong></h9>
-	<div id="certificates"><p>Digital certificates are issued by trusted parties, called certificate authorities, to verify the identity of an entity, such as a client or server.<br>The digital certificate serves two purposes: it verifies the owner's identity and it makes the owner's public key available.<br>For a digital certificate to be entirely trustworthy, the owner of the digital certificate must have carefully protected their private key, for example, by encrypting it on their computer's hard drive.<br>You can use self-signed digital certificates for testing purposes. A self-signed digital certificate contains your distinguished name, your public key, and your signature.</p>
+<div id="DC-CA"><p><strong>Digital certificates and certificate authorities</strong></p>
+</div>
+<div id="certificates"><p>Digital certificates are issued by trusted parties, called certificate authorities, to verify the identity of an entity, such as a client or server.<br>The digital certificate serves two purposes: it verifies the owner's identity and it makes the owner's public key available.<br>For a digital certificate to be entirely trustworthy, the owner of the digital certificate must have carefully protected their private key, for example, by encrypting it on their computer's hard drive.<br>You can use self-signed digital certificates for testing purposes. A self-signed digital certificate contains your distinguished name, your public key, and your signature.</p>
 </div>
 </body>
   </html>
